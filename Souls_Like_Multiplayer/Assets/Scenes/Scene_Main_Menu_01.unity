@@ -6483,7 +6483,7 @@ PrefabInstance:
         type: 3}
       propertyPath: NetworkConfig.PlayerPrefab
       value: 
-      objectReference: {fileID: 7936059618913028127, guid: 4068d9ca53fad734d89a4cfd60b277dd,
+      objectReference: {fileID: 2156693075772354020, guid: 8e5e5aa3248e3df4d9d958265fbb9a11,
         type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cdfc097a081836446a59e1fe760a04e5, type: 3}
